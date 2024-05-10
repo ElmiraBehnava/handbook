@@ -1,6 +1,6 @@
-# Ticket Structure
+# Issues Structure
 
-## Task Title: Implement User Authentication
+## Issue Title: Implement User Authentication
 
 ### Description
 Develop the functionality to allow users to securely register, log in, and manage their accounts.
@@ -33,4 +33,13 @@ Acceptance criteria form the bedrock for defining the success of a task or featu
 
 5. **Risk Mitigation**: By precisely defining the boundaries and intended functionality of the feature, acceptance criteria mitigate risks associated with scope creep and unclear requirements. They provide a mechanism for effectively managing project scope and prioritizing work.
 
-6. **Facilitation of Communication**: Acceptance criteria foster communication and collaboration within the
+6. **Facilitation of Communication**: Acceptance criteria foster communication and collaboration within the team, ensuring that everyone understands what needs to be achieved and how success will be measured.
+
+---
+
+# Title Convention
+
+Issues title convention:
+Title:
+1. Start with a clear verb: Begin your title with a verb that describes the action being taken. For example, "Fix typo in README," "Add new feature for user authentication," "Update dependencies to latest versions," etc.
+2. Use imperative mood: Write the title in the imperative mood, which makes it sound like a command or instruction.
